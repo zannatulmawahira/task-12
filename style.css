@@ -33,6 +33,7 @@
       
       }
       /* gallary end */
+
       .galy-card img:hover{
         opacity: 25%;
         -webkit-transform: scale(1.1);
@@ -40,7 +41,7 @@
       transition:0.5s ;
       
       }
-
+       /* footer start */
       .test{
        width: 100px;
        margin-top: 30px;
