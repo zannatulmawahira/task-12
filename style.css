@@ -7,7 +7,7 @@
     .nav-link:hover{
       background-color: purple;  
     }
-  
+  /* navber end */
     .counts {
         background: url("counts-bg.jpg") center center no-repeat;
         background-size: cover;
